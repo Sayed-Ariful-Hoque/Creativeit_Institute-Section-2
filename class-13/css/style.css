@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.nav_color{ 
+
+    background: rgba(100, 148, 237, 0.58);
+}
+nav .container  img{
+   width: 30px;
+} 
+
+
+/* about_part start==================================== */
+.about_part{
+   
+    background-color: rgba(0, 0, 255, 0.63);
+    padding: 100px 0;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.about_part .about img{
+    height: 200px;
+}
+/* about_part end==================================== */
+/* progress_part Start==================================== */
+.progress_part{
+    background: rgba(0, 0, 255, 0.475);
+    padding: 100px;
+}
+.progress_part .container .progress{
+    width: 500px;
+    margin: 5px auto;
+}
+/* progress_part end==================================== */
+/* spinner_part start==================================== */
+.spinner_part{
+    background-color: rgba(0, 0, 255, 0.158);
+    padding: 50px;
+}
+.spinner_part .container .spinner .spinner-border{
+    margin: 0 auto;
+}
+/* spinner_part end==================================== */
+

@@ -1,0 +1,1124 @@
+@media (min-width: 320px) and (max-width: 400px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        }
+
+        #banner_part p {
+            margin-top: 150px; 
+        }
+        #banner_part h1 {
+            font-size: 60px; 
+        }
+        #banner_part h2 {
+            font-size: 50px;
+            line-height: 50px;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        display: block;
+    }
+    #enjoyed_part .container .left-part img{
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 29px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h2 {
+        width: 245px;
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 10px;
+    }
+    #enjoyed_part .container .right_part p {
+        width: 200px;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        background: #000000;
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 335.924px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 52px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 4px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom: 16px;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 60px 0 15px;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 329px;
+        font-size: 22px;
+        margin-bottom: 14px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 300px;
+        margin-right: 45px;
+        margin-bottom: 25px;
+        font-size: 15px;
+        line-height: 26px;
+        text-transform: capitalize;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+        height: 300px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        background: #000000;
+        padding-top: 74px;
+    }
+    /* footer_Part end================================================= */
+    footer {
+        background: #000000;
+        padding-top: 74px;
+    }
+    footer .container .qwery_footer{
+        display: block;
+    }
+    footer .container .qwery_footer .button_info{
+        margin-top: 30px;
+    }
+    footer .container .qwery_footer .button_info p {
+        margin-top: 8px;
+        margin-right: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    footer .container .qwery_footer .button_info button {
+        width: 112px;
+        height: 35px;
+        border-radius: 6px;
+        background: #ddff43;
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer .container .vacation_part  {
+        display: block;
+    }
+    footer .container .vacation_part .left_part :nth-child(){
+    }
+    footer .container .vacation_part .right_part h5 {
+        margin-top: 40px;
+    }
+
+
+
+    footer .container .vacation_part .left_part h2 {
+        max-width: 300px;
+        font-size: 26px;
+        font-weight: 600;
+    }
+ }
+@media (min-width: 401px) and (max-width: 575.98px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        text-align: center;
+        }
+
+        #banner_part p {
+            margin-top: 150px; 
+        }
+        #banner_part h1 {
+            font-size: 60px; 
+        }
+        #banner_part h2 {
+            font-size: 50px;
+            line-height: 50px;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        display: block;
+    }
+    #enjoyed_part .container .left-part img{
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 28px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin: 15px 0;
+        margin: auto;
+        width: 370px;
+    }
+    #enjoyed_part .container .right_part p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-top: 5px;
+        width: 360px;
+        margin: auto;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 251.924px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 52px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 4px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom: 16px;
+    }
+    #bromo_part .container .bromo h6 {
+        font-size: 11px;
+        font-weight: 500;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 24px 0 15px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 370px;
+        font-size: 20px;
+        margin-bottom: 13px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 370px;
+        margin-bottom: 15px;
+        font-size: 11px;
+        line-height: 23px;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+        height: 300px;
+    }
+
+    #indonesia_part .container .left_part h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 24px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        padding-top: 74px;
+    }
+    footer .container .qwery_footer .button_info p {
+        margin-top: 8px;
+        margin-right: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    footer .container .qwery_footer .button_info button {
+        width: 112px;
+        height: 35px;
+        border-radius: 6px;
+        background: #ff43bd;
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer .container .vacation_part  {
+        display: block;
+    }
+    footer .container .vacation_part .right_part .row .col {
+        margin-top: 32px;
+    }
+    footer .container .vacation_part .left_part :nth-child(){
+    }
+    footer .container .vacation_part .left_part h2 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    /* footer_Part end================================================= */
+
+ }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        }
+
+        #banner_part p {
+            margin-top: 150px; 
+        }
+        #banner_part h1 {
+            font-size: 60px; 
+        }
+        #banner_part h2 {
+            font-size: 50px;
+            line-height: 50px;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        display: block;
+        text-align: center;
+    }
+    #enjoyed_part .container .left-part img{
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 28px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 10px;
+    }
+    #enjoyed_part .container .right_part p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-top: 5px;
+        width: 500px;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        background: #000000;
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 251.924px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 52px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 4px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom: 16px;
+    }
+    #bromo_part .container .bromo h6 {
+        font-size: 11px;
+        font-weight: 500;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+        text-align: center;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 24px 0 15px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 557px;
+        font-size: 20px;
+        margin-bottom: 13px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 550px;
+        margin-bottom: 15px;
+        font-size: 11px;
+        line-height: 23px;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+        height: 300px;
+    }
+
+    #indonesia_part .container .left_part h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 24px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        padding-top: 42px;
+    }
+    /* footer_Part end================================================= */
+    footer {
+        background: #000000;
+        padding-top: 74px;
+    }
+    footer .container .qwery_footer .button_info p {
+        margin-top: 8px;
+        margin-right: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    footer .container .qwery_footer .button_info button {
+        width: 112px;
+        height: 35px;
+        border-radius: 6px;
+        background: #4366ff;
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer .container .vacation_part  {
+        display: block;
+    }
+    footer .container .vacation_part .right_part .row .col {
+        /* margin-left: 93px; */
+        margin-top: 32px;
+    }
+    footer .container .vacation_part .left_part :nth-child(){
+    }
+    footer .container .vacation_part .left_part h2 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+ }
+@media (min-width: 768px) and (max-width:991.98px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        }
+
+        #banner_part p {
+            margin-top: 150px; 
+        }
+        #banner_part h1 {
+            font-size: 60px; 
+        }
+        #banner_part h2 {
+            font-size: 50px;
+            line-height: 50px;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        max-width: 750px;
+    }
+    
+    #enjoyed_part .container .left-part img{
+        margin-top: 20px;
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 28px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 10px;
+    }
+    #enjoyed_part .container .right_part p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-top: 5px;
+        width: 500px;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        background: #000000;
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 251.924px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 52px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 4px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom: 16px;
+    }
+    #bromo_part .container .bromo h6 {
+        font-size: 11px;
+        font-weight: 500;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 24px 0 15px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 557px;
+        font-size: 20px;
+        margin-bottom: 13px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 550px;
+        margin-bottom: 15px;
+        font-size: 11px;
+        line-height: 23px;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+        height: 300px;
+    }
+
+    #indonesia_part .container .left_part h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 24px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        padding-top: 42px;
+    }
+    /* footer_Part end================================================= */
+    footer {
+        background: #000000;
+        padding-top: 74px;
+    }
+    footer .container .qwery_footer .button_info p {
+        margin-top: 8px;
+        margin-right: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    footer .container .qwery_footer .button_info button {
+        width: 112px;
+        height: 35px;
+        border-radius: 6px;
+        background: #43ff56;
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer .container .vacation_part  {
+        display: block;
+    }
+    footer .container .vacation_part .right_part .row .col {
+        margin-left: 100px;
+        margin-top: 32px;
+    }
+    footer .container .vacation_part .left_part :nth-child(){
+    }
+    footer .container .vacation_part .left_part h2 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+ }
+@media (min-width: 992px) and (max-width:1199.98px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        }
+    #banner_part .container{
+        text-align: center;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        max-width: 900px;
+    }
+    
+    #enjoyed_part .container .left-part img{
+        margin-top: 20px;
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part {
+        margin-top: 15px;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 28px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 10px;
+    }
+    #enjoyed_part .container .right_part p {
+        margin-top: 15px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        background: #000000;
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 52px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 4px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+        width: 500px;
+        margin: auto;
+    }
+    #bromo_part .container .bromo h6 {
+        font-size: 11px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 24px 0 15px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 557px;
+        font-size: 20px;
+        margin-bottom: 13px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 550px;
+        margin-bottom: 15px;
+        font-size: 12px;
+        line-height: 23px;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+    }
+
+    #indonesia_part .container .left_part h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 24px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        padding-top: 42px;
+    }
+    /* footer_Part end================================================= */
+    footer {
+        background: #000000;
+        padding-top: 74px;
+    }
+    footer .container .qwery_footer .button_info p {
+        margin-top: 8px;
+        margin-right: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    footer .container .qwery_footer .button_info button {
+        width: 112px;
+        height: 35px;
+        border-radius: 6px;
+        background: #ffcd43;
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer .container .vacation_part  {
+        display: block;
+    }
+    footer .container .vacation_part .right_part .row .col {
+        margin-left: 100px;
+        margin-top: 32px;
+    }
+    footer .container .vacation_part .left_part h2 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+ }
+@media (min-width: 1200px) and (max-width:1300.98px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        }
+    #banner_part .container{
+        text-align: center;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        max-width: 900px;
+    }
+    
+    #enjoyed_part .container .left-part img{
+        margin-top: 20px;
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part {
+        margin-top: 15px;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 28px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 10px;
+    }
+    #enjoyed_part .container .right_part p {
+        margin-top: 15px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        background: #000000;
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 300px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 52px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 4px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+        width: 500px;
+        margin: auto;
+    }
+    #bromo_part .container .bromo h6 {
+        font-size: 11px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 24px 0 15px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 557px;
+        font-size: 20px;
+        margin-bottom: 13px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 550px;
+        margin-bottom: 15px;
+        font-size: 12px;
+        line-height: 23px;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+    }
+
+    #indonesia_part .container .left_part h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 24px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        padding-top: 42px;
+    }
+    /* footer_Part end================================================= */
+    footer {
+        background: #000000;
+        padding-top: 74px;
+    }
+    footer .container .qwery_footer .button_info p {
+        margin-top: 8px;
+        margin-right: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    footer .container .qwery_footer .button_info button {
+        width: 112px;
+        height: 35px;
+        border-radius: 6px;
+        background: #ffcd43;
+        color: #000;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer .container .vacation_part  {
+        display: block;
+    }
+    footer .container .vacation_part .right_part .row .col {
+        margin-left: 100px;
+        margin-top: 32px;
+    }
+    footer .container .vacation_part .left_part h2 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+ }
+@media (min-width: 1300px) and (max-width:1400.98px) { 
+    /* nav_part start  */
+    /* navbar_part end  */
+    
+    /* #banner_part start======================= */
+    #banner_part {
+        padding: 74px 0;
+        }
+    /* #banner_part end======================= */
+    /* #enjoyed_part start ================= */
+    #enjoyed_part {
+        padding-top: 0;
+    }
+    #enjoyed_part .container {
+        max-width: 1200px;
+    }
+    
+    #enjoyed_part .container .left-part img{
+        margin-top: 20px;
+        width: 100%;
+    }
+    #enjoyed_part .container .right_part {
+        margin-top: 120px;
+    }
+    #enjoyed_part .container .right_part h5 {
+        margin-top: 28px;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    #enjoyed_part .container .right_part h2 {
+        font-size: 35px;
+        font-weight: 900;
+        margin-top: 10px;
+    }
+    #enjoyed_part .container .right_part p {
+        margin-top: 15px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    #enjoyed_part .container .right_part h6 {
+        margin-top: 18px;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    /* #enjoyed_part  end ======================== */
+
+    /* #bromo_part start ========================================== */
+    #bromo_part {
+        background: #000000;
+        padding-top: 32px;
+    }
+    #bromo_part .container {
+        background: url(../imges/bromo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 500px;
+        flex-shrink: 0;
+        padding: 0;
+    }
+    #bromo_part .container .bromo h5 {
+        padding-top: 140px;
+        font-size: 25px;
+        font-weight: 900;
+    }
+    #bromo_part .container .bromo h2 {
+        margin-bottom: 8px;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    #bromo_part .container .bromo p {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 29px;
+        width: 800px;
+        margin: auto;
+    }
+    #bromo_part .container .bromo h6 {
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 27px;
+    }
+    /* #bromo_part end ========================================== */
+    
+    /* #indonesia_part start ==================================== */
+    #indonesia_part {
+        padding-top: 1px;
+    }
+    #indonesia_part .container {
+        display: block;
+    }
+    #indonesia_part .container .left_part h5 {
+        margin: 70px 0 15px;
+        font-size: 29px;
+        font-weight: 400;
+    }
+    #indonesia_part .container .left_part h2 {
+        width: 700px;
+        font-size: 35px;
+        margin-bottom: 13px;
+    }
+    #indonesia_part .container .left_part p {
+        width: 700px;
+        margin-bottom: 15px;
+        font-size: 15px;
+        line-height: 33px;
+    }
+
+    #indonesia_part .container .right_part img {
+        width: 100%;
+    }
+
+    #indonesia_part .container .left_part h6 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 70px;
+    }
+
+    /* #indonesia_part end =========================================== */
+    
+    /* footer_Part start  =============================================*/
+    footer {
+        padding-top: 100px;
+    }
+    /* footer_Part end================================================= */
+
+    footer h6 {
+        padding: 50px 0;
+    }
+    footer .container .vacation_part .left_part h2 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+ }

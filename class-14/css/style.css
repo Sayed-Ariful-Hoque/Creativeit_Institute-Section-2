@@ -1,0 +1,375 @@
+/* commun_css_part_start=============================================================================== */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+}
+/* commun_css_part_end ==================================================================================*/
+/* Navebar_part_start================================================================================= */
+.navbar{
+    padding: 0;
+    position: fixed;
+    top: 28px;
+    width: 100%;
+}
+.navbar-brand{
+    padding: 0;
+    margin: 0;
+    /* color: #FFF;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.24px;
+    text-transform: capitalize; */
+}
+.navbar-brand img{
+ width: 87px;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    padding: 0;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.navbar .navbar-nav .nav-item .nav-link.active{
+ color: black;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+ color: black;
+ transition: .4s;
+}
+.navbar .navbar-nav{
+    column-gap: 60px;
+}
+/* Navebar_part_end================================================================================= */
+/* Banner_part_start================================================================================= */
+#banner_part{
+    background: url(../imges/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 462px 0;
+}
+#banner_part p{
+    color: #FFC178;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    margin-bottom: 37px;
+}
+#banner_part h1{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px; /* 104.167% */
+    text-transform: capitalize;
+}
+#banner_part h2{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100px;
+    text-transform: capitalize;
+}
+
+/* Banner_part_end================================================================================= */
+/* enjoyed_part_Start================================================================================= */
+    #enjoyed_part{
+        background-color: #000000;
+        padding-top: 319px;
+    }
+    #enjoyed_part .container{
+        display: flex;
+    }
+    #enjoyed_part .container .right_part{
+        margin-left: 23px;
+    }
+    #enjoyed_part .container .right_part h2{
+        width: 496px;
+        color: #FFF;
+        font-family: Open Sans;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+    #enjoyed_part .container .right_part p{
+        width: 587px;
+        color: #FFF;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 32px; /* 228.571% */
+        text-transform: uppercase;
+    }
+    #enjoyed_part .container .right_part h5{
+        margin-top: 45px;
+        color: #FBD784;
+        font-family: Open Sans;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+    }
+    #enjoyed_part .container .right_part h6{
+        margin-top: 66px;
+        color: #FBD784;
+        font-family: Open Sans;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+/* enjoyed_part_end================================================================================= */
+/* Bromo_part_Start================================================================================= */
+#bromo_part{
+    background: #000000;
+    padding-top: 358px;
+}
+#bromo_part .container{
+    background: url(../imges/bromo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1320px;
+    height: 964.924px;
+    flex-shrink: 0;
+    padding: 0;
+}
+#bromo_part .bromo{
+    text-align: center;
+    width: 932px;
+}
+#bromo_part .container .bromo h5{
+    padding-top: 559px;
+    margin-bottom: 13px;
+    color: #FBD784;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+#bromo_part .container .bromo h2{
+    margin-bottom: 14px;
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+#bromo_part .container .bromo p{
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 213.333% */
+    text-transform: uppercase;
+    margin-bottom: 26px;
+}
+#bromo_part .container .bromo h6{
+    color: #FBD784;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+/* Bromo_part_end================================================================================= */
+/* INDONESIAN_part_start================================================================================= */
+ #indonesia_part{
+    background-color: #000000;
+    padding-top: 295px;
+ }
+ #indonesia_part .container{
+    display: flex;
+ }
+ #indonesia_part .container .left_part{
+ }
+ #indonesia_part .container .left_part h5{
+    margin: 153px 0 19px;
+    color: #FBD784;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+ }
+ #indonesia_part .container .left_part h2{
+    width: 663px;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 19px;
+ }
+ #indonesia_part .container .left_part p{
+    width: 655px;
+    margin-right: 45px;
+    margin-bottom: 47px;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 177.778% */
+    text-transform: uppercase;
+ }
+ #indonesia_part .container .left_part h6{
+    color: #FBD784;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+ }
+ #indonesia_part .container .right_part img{
+    width: 624px;
+    height: 799px;
+    flex-shrink: 0;
+}
+/* INDONESIAN_part_end================================================================================= */
+/* Footer_part_start================================================================================= */
+footer{
+    background: #000000;
+    padding-top: 199px;
+}
+footer .container .qwery_footer {
+    display: flex;
+    justify-content: space-between;
+}
+footer .container .qwery_footer .button_info{
+    display: flex;
+}
+footer .container .qwery_footer .button_info p{
+    margin-top: 12px;
+    margin-right: 18px;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.3px;
+    text-transform: capitalize;
+}
+footer .container .qwery_footer .button_info button{
+    width: 232px;
+    height: 59px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFA343;
+    border: none;
+    color: #000;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+footer .container .vacation_part{
+    padding-top: 58px;
+    display: flex;
+    background-color: #000000;
+    justify-content: space-between;
+    color: #FFF;
+}
+footer .container .vacation_part .left_part h2{
+    width: 405px;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.3px;
+    text-transform: capitalize;
+}
+footer .container .vacation_part .left_part p{
+    margin-top: 48px;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.205px;
+    text-transform: capitalize;
+}
+footer .container .vacation_part .left_part svg{
+margin-top: 35px;
+}
+
+footer .container .vacation_part .right_part .row .col{
+    width: 141px;
+    height: 169.933px;
+    flex-shrink: 0;
+}
+
+footer .container .vacation_part .right_part h5{
+    color: #FFD1A0;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.232px;
+    text-transform: capitalize;
+}
+footer h6{
+    text-align: center;
+    padding: 153px 0 30px;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 177.778% */
+}
+/* Footer_part_end================================================================================= */
